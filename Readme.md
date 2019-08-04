@@ -22,7 +22,7 @@ python transferLearning.py
 ![CNN](https://i.ibb.co/Qmt0mbV/CNNSummary.png)
 ### Accuracy on training and validation Data.
 ![CNN](https://i.ibb.co/hdkTvNV/CNNAccuracy.png)
-### Summary of Model using imagenet.
+### Summary of Model pre-trained on imagenet using Transfer Learning.
 ![TL](https://i.ibb.co/4d9Cb43/TLSummary.png)
 ### Accuracy on training and validation Data.
 ![TL](https://i.ibb.co/2PZCpsJ/TF1.png)

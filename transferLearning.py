@@ -7,7 +7,7 @@ SIZE = (150, 150, 3)
 imagenet = tf.keras.applications.MobileNetV2(input_shape=SIZE,
                                                include_top=False,
                                                weights='imagenet')
-#To tell Tf not to adjust wiegths of imagenet model which are already trained
+#To tell Tf not to adjust weigths of imagenet model which are already trained
 imagenet.trainable = False
 #model Summary
 imagenet.summary()
