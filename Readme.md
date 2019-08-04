@@ -17,7 +17,7 @@ Or
 python transferLearning.py
 ```
 ### Dataset
-![Dataset](https://ibb.co/HN2wCBb][img]https://i.ibb.co/cbvfwkZ/Dataset.png)
+![Dataset](https://i.ibb.co/cbvfwkZ/Dataset.png)
 ### Summary of custom CNN Model.
 ![CNN](https://i.ibb.co/Qmt0mbV/CNNSummary.png)
 ### Accuracy on training and validation Data.
